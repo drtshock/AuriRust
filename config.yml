@@ -1,0 +1,16 @@
+# Config for AuriRust
+# Customly coded for <servername> by drtshock
+# trent.hensler on skype for support
+####### Config Info #######
+# Damage.Rain - amount of damage armor takes in rain.
+# Damage.Water - amount of damage armor takes in water.
+# Damage.Ticks - interval to check in rain or in water.
+# Damage.Swing - damage taken on each swing.
+# Message.Swing - message sent when a player swings, default color red. "Message must be in quotes"
+####### Config Settings #######
+Damage:
+  Rain: 5
+  Water: 5
+  Swing: 1
+Message:
+  Swing: "Stop swinging for no reason!"
