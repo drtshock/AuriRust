@@ -1,3 +1,3 @@
 AuriRust
 ========
-======Plugin designed for http://revolutionmobs.enjin.com=====
+Plugin designed for http://revolutionmobs.enjin.com
